@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoodsFrom</string>
+    <string name="barcode_numer">"Barcode number:  "</string>
+    <string name="product_country">"Made in: "</string>
+    <string name="ok">OK</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="unknown">Unknown</string>
+    <string name="scan">SCAN</string>
+    <string name="explanation">"\nHello!\nPress 'SCAN' button and scan product's barcode to learn products countries according to their barcode!</string>
+    <string name="warning">Its only working for EAN-8 and EAN-13 barcode types</string>
+    <string name="continuee">Continue</string>
+</resources>

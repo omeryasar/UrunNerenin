@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoodsFrom</string>
+    <string name="barcode_numer">"Barkod numarası: "</string>
+    <string name="product_country">"Üretildiği Ülke: "</string>
+    <string name="ok">Tamam</string>
+    <string name="scan_result">Tarama Sonucu</string>
+    <string name="unknown">Bilinmiyor</string>
+    <string name="scan">Tara</string>
+    <string name="explanation">Merhaba\nIstediğiniz herhangi bir ürünün üretim yerini öğrenmek için TARA butonuna basıp ürünün barkodunu taratın!</string>
+    <string name="warning">Uygulama EAN-8 ve EAN-13 için doğru sonuç verir</string>
+    <string name="continuee">Devam et</string>
+</resources>
