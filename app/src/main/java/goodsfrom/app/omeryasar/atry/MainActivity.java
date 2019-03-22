@@ -73,34 +73,7 @@ public class MainActivity extends AppCompatActivity  {
             }
         });
 
-        /*ContentValues contentValues = new ContentValues();
-        contentValues.put(CodeContract.CodeEntry.Country_NAME,"Turkey");
-        contentValues.put(CodeContract.CodeEntry.COUNTRY_CODE,868);
-        contentValues.put(CodeContract.CodeEntry.COUNTRY_FLAG_CODE,R.drawable.turkey_flag);
-        contentValues.put(CodeContract.CodeEntry.COUNTRY_TRANSLATION,"Türkiye");
-
-        ContentValues contentValues1 = new ContentValues();
-        contentValues1.put(CodeContract.CodeEntry.Country_NAME,"Turkey");
-        contentValues1.put(CodeContract.CodeEntry.COUNTRY_CODE,869);
-        contentValues1.put(CodeContract.CodeEntry.COUNTRY_FLAG_CODE,R.drawable.turkey_flag);
-        contentValues1.put(CodeContract.CodeEntry.COUNTRY_TRANSLATION,"Türkiye");
-
-        ContentValues contentValues2 = new ContentValues();
-        contentValues2.put(CodeContract.CodeEntry.Country_NAME,"Poland");
-        contentValues2.put(CodeContract.CodeEntry.COUNTRY_CODE,590);
-        contentValues2.put(CodeContract.CodeEntry.COUNTRY_FLAG_CODE,R.drawable.poland_flag);
-        contentValues2.put(CodeContract.CodeEntry.COUNTRY_TRANSLATION,"Polonya");
-
-        ContentValues contentValues3 = new ContentValues();
-        contentValues3.put(CodeContract.CodeEntry.Country_NAME,"Germany");
-        contentValues3.put(CodeContract.CodeEntry.COUNTRY_CODE,40);
-        contentValues3.put(CodeContract.CodeEntry.COUNTRY_FLAG_CODE,R.drawable.germany_flag);
-        contentValues3.put(CodeContract.CodeEntry.COUNTRY_TRANSLATION,"Almanya");
-
-        getContentResolver().insert(CodeContract.CodeEntry.CONTENT_URI,contentValues);
-        getContentResolver().insert(CodeContract.CodeEntry.CONTENT_URI,contentValues1);
-        getContentResolver().insert(CodeContract.CodeEntry.CONTENT_URI,contentValues2);
-        getContentResolver().insert(CodeContract.CodeEntry.CONTENT_URI,contentValues3);*/
+        
 
 
     }
